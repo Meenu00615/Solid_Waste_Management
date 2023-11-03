@@ -1,0 +1,16 @@
+Location,Latitude,Longitude,WasteType,CollectionFrequency,CollectionCapacity,CollectionSchedule,WasteVolume
+Bin1,34.0522,-118.2437,Recyclables,Weekly,240 liters,Monday 10:00 AM,180 kg
+Bin2,34.0567,-118.2421,Organic,Biweekly,120 liters,Tuesday 2:00 PM,80 kg
+Bin3,34.0575,-118.2444,Non-Recyclables,Daily,360 liters,Every weekday 8:00 AM,300 kg
+Bin4,34.0593,-118.2439,Recyclables,Weekly,240 liters,Monday 9:00 AM,190 kg
+Bin5,34.0601,-118.2458,Organic,Monthly,180 liters,First Friday 3:00 PM,60 kg
+Bin6,34.0525,-118.2462,Non-Recyclables,Daily,360 liters,Every weekday 7:30 AM,320 kg
+Bin7,34.0538,-118.2471,Recyclables,Weekly,240 liters,Monday 10:30 AM,200 kg
+Bin8,34.0553,-118.2468,Organic,Biweekly,120 liters,Tuesday 3:00 PM,90 kg
+Bin9,34.0559,-118.2441,Non-Recyclables,Daily,360 liters,Every weekday 8:30 AM,280 kg
+Bin10,34.0566,-118.2427,Recyclables,Weekly,240 liters,Monday 11:00 AM,170 kg
+Bin11,34.0580,-118.2419,Organic,Monthly,180 liters,First Tuesday 2:00 PM,70 kg
+Bin12,34.0592,-118.2438,Non-Recyclables,Daily,360 liters,Every weekday 7:00 AM,310 kg
+Bin13,34.0596,-118.2446,Recyclables,Weekly,240 liters,Monday 11:30 AM,210 kg
+Bin14,34.0605,-118.2452,Organic,Biweekly,120 liters,Tuesday 3:30 PM,100 kg
+Bin15,34.0613,-118.2463,Non-Recyclables,Daily,360 liters,Every weekday 9:00 AM,260 kg
